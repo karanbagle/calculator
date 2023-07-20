@@ -16,11 +16,6 @@ This is a simple web application built using HTML and CSS, providing basic calcu
 - Easy-to-Use: The user-friendly interface allows for effortless calculation.
 - Basic Arithmetic Operations: Addition, subtraction, multiplication, and division functionalities are provided.
 
-## Screenshots
-
-![Screenshot 1](screenshot1.png)
-
-![Screenshot 2](screenshot2.png)
 
 ## Contributing
 
